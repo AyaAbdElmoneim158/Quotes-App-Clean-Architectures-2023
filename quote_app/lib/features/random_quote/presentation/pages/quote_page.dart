@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:quote_app/core/utils/app_images.dart';
 
 class QuotePage extends StatelessWidget {
   const QuotePage({super.key});
@@ -7,10 +8,7 @@ class QuotePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text(
-          'Quote Page 💬',
-          style: Theme.of(context).textTheme.headlineMedium,
-        ),
+        child: Image.asset(AppImages.quote)
       ),
     );
   }
