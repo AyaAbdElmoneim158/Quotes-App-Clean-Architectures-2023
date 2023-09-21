@@ -8,11 +8,4 @@
 
 <b>🔹 Add App Structure<br>
 <b>🔹 Add App Resource <br>
-&emsp;&emsp;- `Strings`<br>
-&emsp;&emsp;- `Colors`<br>
-&emsp;&emsp;- `Theme`<br>
-&emsp;&emsp;- `Font`<br>
-&emsp;&emsp;- `Images`<br>
-&emsp;&emsp;- `Routes`<br>
-&emsp;&emsp;- `Constants`<br>
-&emsp;&emsp;- `MediaQuery`<br>
+&emsp;&emsp;`Strings` `Colors` `Theme` `Font` `Images` `Routes` `Constants` `MediaQuery`
